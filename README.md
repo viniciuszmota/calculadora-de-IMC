@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 A página de Calculadora de IMC foi desenvolvida para estudo do JavaScript.
 
-- [Acesse o projeto finalizado, online](https://viniciuszmota.github.io/Fotoblog/)
+- [Acesse o projeto finalizado, online](https://viniciuszmota.github.io/calculadora-de-IMC/)
 
 ---
 
